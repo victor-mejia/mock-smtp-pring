@@ -10,6 +10,8 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 public class WiserAssertions {
+    
+    //Taken from here http://blog.codeleak.pl/2014/09/testing-mail-code-in-spring-boot.html
 
     private final List<WiserMessage> messages;
 
